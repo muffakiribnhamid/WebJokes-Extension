@@ -1,0 +1,32 @@
+body {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    justify-content: center;
+    background-color: beige;
+}
+h5{ 
+    display: flex;
+    justify-content: center;
+}
+p {
+    color: black;
+    margin-top: 20px;
+    display: inner-flex;
+    margin-top: 30px;
+    padding: 10px;
+    color: blue;
+    border-radius: 6px;
+    text-align: center;
+    border: 1px solid green;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name {
+    color: black;
+    margin-top: 20px;
+    display: inner-flex;
+    margin-top: 30px;
+    padding: 10px;
+    color: green;
+}
